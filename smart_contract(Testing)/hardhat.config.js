@@ -1,5 +1,3 @@
-// https://eth-goerli.alchemyapi.io/v2/Gx2KbRE8awd2QHW6bBoGbFjA41LLo5MF
-
 require("@nomiclabs/hardhat-waffle");
 require("dotenv").config();
 
